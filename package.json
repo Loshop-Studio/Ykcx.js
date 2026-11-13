@@ -1,0 +1,13 @@
+{
+  "name": "ykcx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline virtual keyboard and Android-style text selection for landscape Android WebViews.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  }
+}
